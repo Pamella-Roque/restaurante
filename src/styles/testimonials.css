@@ -42,7 +42,7 @@
     justify-content: space-between;
 }
 .feedback-content p span{
-    color: var(-var(--color-primary-6);)
+    color: var(--color-primary-6);
 }
 
 
