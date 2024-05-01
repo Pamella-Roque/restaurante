@@ -70,4 +70,20 @@
     min-height: 100%;
     padding-top: 0px ;
    }
+   #banner,
+   #banner img,
+   #home .shape{
+    display: none;
+   }
+   #cta{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+   }
+}
+
+@media screen and (max-width:450px){
+    #phone_button button{
+        display: none;
+    }
 }

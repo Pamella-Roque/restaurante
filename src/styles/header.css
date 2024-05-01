@@ -1,6 +1,10 @@
 header{
     width: 100%;
     padding:28px 8%; /* porcento para ficar responsivo*/
+    position: sticky;
+    top:0;
+    background-color: #fff9ea;
+    z-index: 3; /* Para a nav bar ficar por cima */
 }
 #navbar{
     width: 100%;
